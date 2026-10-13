@@ -36,4 +36,4 @@ It can be used in applications such as:
 </div>
 
 <h2>License</h2>
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
