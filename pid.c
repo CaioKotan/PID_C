@@ -8,7 +8,6 @@ void PID_init(PID *pid, float kp, float ki, float kd) {
     pid->erro_integral = 0.0f;
     pid->erro_anterior = 0.0f;
 }
-
 float PID_calcular(PID *pid, float erro, float dt) {
     pid->erro_integral += erro * dt;
     float derivada = (erro - pid->erro_anterior) / dt;
