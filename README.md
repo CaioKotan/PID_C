@@ -1,4 +1,5 @@
 <h1>PID_C</h1>
+<img src="https://www.digikey.com/maker-media/02fe5790-c8c0-4868-9b17-8a72bae8afe0"/>
 <p>PID Controller Library in C</p>
 <p>A lightweight C library for implementing PID (Proportional–Integral–Derivative) control algorithms in embedded systems and general-purpose applications.</p>
 <h2>Overview</h2>
