@@ -34,3 +34,6 @@ It can be used in applications such as:
 <h3>Compile the library together with your application:</h3>
 <p>gcc main.c pid.c -o application</p>
 </div>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.</p>
