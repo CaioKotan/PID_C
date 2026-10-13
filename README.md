@@ -1,5 +1,5 @@
 <h1>PID_C</h1>
-<img align="center" url="a.jpg" width=420px/>
+<img align="center" src="a.jpg" width=800px/>
 <p>PID Controller Library in C</p>
 <p>A lightweight C library for implementing PID (Proportional–Integral–Derivative) control algorithms in embedded systems and general-purpose applications.</p>
 <h2>Overview</h2>
